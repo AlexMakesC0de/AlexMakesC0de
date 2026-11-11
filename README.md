@@ -4,14 +4,7 @@ IT student at NHL Stenden in the Netherlands. I build practical tools, lately mo
 
 ### What I'm building
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [**agent-vault**](https://github.com/AlexMakesC0de/agent-vault) | One shared memory for every coding agent you use, plus a separate memory per project. Plain Markdown, for Claude Code and Codex. | Python |
-| [**AI-calling-assistant**](https://github.com/AlexMakesC0de/AI-calling-assistant) | Local-first support-call pipeline: transcribes calls, fills in an incident form, emails it and stores it. | Python, Docker, PostgreSQL |
-| [**stream-watch**](https://github.com/AlexMakesC0de/stream-watch) | Ad-free desktop app for anime, movies and TV, with a watch library and resume where you left off. | TypeScript, Electron |
-| [**auto-clicker**](https://github.com/AlexMakesC0de/auto-clicker) | Cross-platform tray auto clicker with click sequences and recordable global hotkeys. | C#, .NET, Avalonia |
-| [**IT1F-BattleBots**](https://github.com/AlexMakesC0de/IT1F-BattleBots) | Arduino robot that follows lines, solves a maze and avoids obstacles. | C++, Arduino |
-| [**volume-booster-extension**](https://github.com/AlexMakesC0de/volume-booster-extension) | Browser extension that boosts volume up to 500%, with bass and treble controls. | JavaScript |
+<!-- Add current projects here. -->
 
 ### Tools I use
 
