@@ -7,6 +7,7 @@ Outside work I build software end to end: desktop apps, browser extensions, AI p
 ### What I'm building
 
 - **At AAL Shipping:** architecture and frontends for internal applications, with Next.js, FastAPI and Microsoft Fabric.
+- **[Zethus](https://zethus.app):** a shared team inbox for Gmail, Outlook and IMAP, with calendar, task boards and an AI assistant in one workspace.
 - **[agent-vault](https://github.com/AlexMakesC0de/agent-vault):** shared, file-based memory for AI coding agents. Version 1.0 is out.
 - **[stream-watch](https://github.com/AlexMakesC0de/stream-watch):** a desktop app for watching and tracking anime, movies and TV, now in beta.
 
